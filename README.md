@@ -21,7 +21,9 @@
 ## Skills Used:
 1) HTML
 2) CSS
-   
+
+## Project Screenshot
 ![Ganpati Bappa Wishes Website Screenshot](Ganpati%20Bappa%20Output%20.png)
+
 
 
