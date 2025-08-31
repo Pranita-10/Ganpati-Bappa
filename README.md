@@ -23,7 +23,8 @@
 2) CSS
 
 ## Project Screenshot
-![Ganpati Bappa Wishes Website Screenshot](Ganpati%20Bappa%20Output%20.png)
+<img width="919" height="878" alt="image" src="https://github.com/user-attachments/assets/9568c09c-a24c-4107-b116-566c33913916" />
+
 
 
 
