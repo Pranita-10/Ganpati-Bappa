@@ -1,6 +1,6 @@
 # Ganpati Bappa 
 
-*This is a simple for Ganpati Bappa website to Wishes for us*
+*This is a simple Ganpati Bappa Website to wish us*
 
 ## HTML provides the basic structure of the website.
 ## It Includes:
@@ -24,6 +24,7 @@
 
 ## Project Screenshot
 ![Ganpati Bappa Wishes Website Screenshot](Ganpati%20Bappa%20Output%20.png)
+
 
 
 
